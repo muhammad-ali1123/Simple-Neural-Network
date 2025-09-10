@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from graphviz import Digraph 
 ```
 
-    Requirement already satisfied: graphviz in c:\users\noore\anaconda3\lib\site-packages (0.21)
+    Requirement already satisfied: graphviz in c:\users\my_name\anaconda3\lib\site-packages (0.21)
     
 
 
@@ -183,7 +183,7 @@ draw_dot(o)
 
 
     
-![svg](output_5_0.svg)
+
     
 
 
@@ -216,7 +216,6 @@ draw_dot(o)
 
 
     
-![svg](output_6_0.svg)
     
 
 
@@ -371,13 +370,3 @@ for k in range(20):
     18 2.147549917500178
     19 2.3906082754386144
     
-
-
-```python
-
-```
-
-
-```python
-
-```
